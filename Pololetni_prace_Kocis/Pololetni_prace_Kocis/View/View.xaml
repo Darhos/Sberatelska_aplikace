@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Pololetni_prace_Kocis.View.View"
+             Title="Sběratelské album"
+             xmlns:viewmodel="clr-namespace:Pololetni_prace_Kocis.ViewModel"
+             BindingContext="{viewmodel:MainViewModel}">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center">
+            <Label Text="Název figurky:" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+            <Entry x:Name="NazevVstup" Text="{Binding VstupNazev, Mode=TwoWay}"/>
+            <Label Text="Druh figurky:" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+            <Entry x:Name="DruhVstup" Text="{Binding VstupDruh, Mode=TwoWay}"/>
+            <Label Text="Číslo figurky:" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+            <Entry x:Name="CisloVstup" Text="{Binding VstupCislo, Mode=TwoWay}"/>
+            <Button x:Name="PridatButton" Text="Přidat" Command="{Binding Pridat}"/>
+            <Button x:Name="ZobrazKolekciButton" Text="Zobrazit kolekci" Command="{Binding Zobrazit}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

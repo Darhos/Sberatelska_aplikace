@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Pololetni_prace_Kocis.View.KolekceView"
+             Title="Zobrazení kolekce"
+             xmlns:viewmodel="clr-namespace:Pololetni_prace_Kocis.ViewModel"
+             BindingContext="{viewmodel:KolekceViewModel}">
+    <ListView HasUnevenRows="True" ItemsSource="{Binding VsechnyFigurky}" CachingStrategy="RecycleElement" BackgroundColor="White">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout>
+                        <Label Text="{Binding Nazev}" FontAttributes="Bold" FontSize="Medium"/>
+                        <Label Text="{Binding Druh}" FontSize="Small"/>
+                        <Label Text="{Binding Cislo}" FontSize="Small"/>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
