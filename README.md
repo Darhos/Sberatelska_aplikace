@@ -1,0 +1,1 @@
+# Sberatelska_aplikace
