@@ -1,0 +1,14 @@
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\bin\Debug\netstandard2.0\Pololetni_prace_Kocis.deps.json
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\bin\Debug\netstandard2.0\Pololetni_prace_Kocis.dll
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\bin\Debug\netstandard2.0\Pololetni_prace_Kocis.pdb
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\obj\Debug\netstandard2.0\Pololetni_prace_Kocis.csprojAssemblyReference.cache
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\obj\Debug\netstandard2.0\View\KolekceView.xaml.g.cs
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\obj\Debug\netstandard2.0\View\View.xaml.g.cs
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\obj\Debug\netstandard2.0\Pololetni_prace_Kocis.csproj.CoreCompileInputs.cache
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\obj\Debug\netstandard2.0\Pololetni_prace_Kocis.AssemblyInfoInputs.cache
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\obj\Debug\netstandard2.0\Pololetni_prace_Kocis.AssemblyInfo.cs
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\obj\Debug\netstandard2.0\Pololetni_prace_Kocis.dll
+C:\Users\Jan Kočiš\Downloads\Pololetni_prace_Kocis\Pololetni_prace_Kocis\Pololetni_prace_Kocis\obj\Debug\netstandard2.0\Pololetni_prace_Kocis.pdb

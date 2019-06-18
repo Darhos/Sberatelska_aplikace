@@ -3,8 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Pololetni_prace_Kocis.View.View"
              Title="Sběratelské album"
-             xmlns:viewmodel="clr-namespace:Pololetni_prace_Kocis.ViewModel"
-             BindingContext="{viewmodel:MainViewModel}">
+             xmlns:ViewModel="clr-namespace:Pololetni_prace_Kocis.ViewModel"
+             BindingContext="{ViewModel:MainViewModel}">
     <ContentPage.Content>
         <StackLayout VerticalOptions="Center">
             <Label Text="Název figurky:" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />

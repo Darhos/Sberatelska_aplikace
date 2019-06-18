@@ -3,8 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Pololetni_prace_Kocis.View.KolekceView"
              Title="Zobrazení kolekce"
-             xmlns:viewmodel="clr-namespace:Pololetni_prace_Kocis.ViewModel"
-             BindingContext="{viewmodel:KolekceViewModel}">
+             xmlns:ViewModel="clr-namespace:Pololetni_prace_Kocis.ViewModel"
+             BindingContext="{ViewModel:KolekceViewModel}">
     <ListView HasUnevenRows="True" ItemsSource="{Binding VsechnyFigurky}" CachingStrategy="RecycleElement" BackgroundColor="White">
         <ListView.ItemTemplate>
             <DataTemplate>
