@@ -14,6 +14,7 @@
             <Label Text="Číslo figurky:" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
             <Entry x:Name="CisloVstup" Text="{Binding VstupCislo, Mode=TwoWay}"/>
             <Button x:Name="PridatButton" Text="Přidat" Command="{Binding Pridat}"/>
+            <Button x:Name="UlozitButton" Text="Uložit kolekci" Command="{Binding Ulozit}"/>
             <Button x:Name="ZobrazKolekciButton" Text="Zobrazit kolekci" Command="{Binding Zobrazit}"/>
         </StackLayout>
     </ContentPage.Content>
